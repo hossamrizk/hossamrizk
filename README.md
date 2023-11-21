@@ -8,12 +8,13 @@
 
 - 🌱 I’m currently learning **Flask APIs, Docker and kuberenetes**
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/hossamrizk/code](https://www.kaggle.com/hossamrizk/code)
-
 - 📫 How to reach me **hossamrizk048@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
-<a href="www.linkedin.com/in/hossamrizk10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossamrizk10" height="30" width="40" /></a>
+<p align="left">
+<a href="https://linkedin.com/in/hossamrizk10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossamrizk10" height="30" width="40" /></a>
+<a href="https://kaggle.com/hossamrizk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hossamrizk" height="30" width="40" /></a>
+</p>
 
 
 </p>
