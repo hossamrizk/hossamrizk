@@ -10,10 +10,10 @@
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/hossamrizk/code](https://www.kaggle.com/hossamrizk/code)
 
-- 📫 How to reach me **hossamrizk048@gmail.com** **https://www.linkedin.com/in/hossam-rizk/**
+- 📫 How to reach me **hossamrizk048@gmail.com** 
 
-- ⚡ Fun fact **I don't get bored when programming.**
-
+<h3 align="left">Connect with me:</h3>
+<a href="www.linkedin.com/in/hossamrizk10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossamrizk10" height="30" width="40" /></a>
 
 
 </p>
