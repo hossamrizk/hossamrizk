@@ -7,7 +7,7 @@ Passionate Machine Learning Engineer with hands-on experience in developing dive
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossamrizk&label=Profile%20views&color=0e75b6&style=flat" alt="hossamrizk" /> </p>
 
-- 🌱 I’m currently learning **LangGraph**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **hossamrizk048@gmail.com** 
 
